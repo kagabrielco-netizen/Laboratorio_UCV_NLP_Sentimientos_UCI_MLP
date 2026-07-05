@@ -19,7 +19,10 @@ Total: 2748 comentarios etiquetados.
 <img width="562" height="267" alt="image" src="https://github.com/user-attachments/assets/dae6224b-f34e-4481-982a-99ea50841019" />
 
 ## Vectorización TF-IDF
+
 <img width="218" height="30" alt="image" src="https://github.com/user-attachments/assets/01433a43-a232-489b-abfe-fab44138f1d4" />
+
+
 
 <img width="161" height="477" alt="image" src="https://github.com/user-attachments/assets/f5511b9e-f713-4d55-b6a5-50d5773eca0c" />
 
